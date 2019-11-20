@@ -1,0 +1,35 @@
+body{
+  font-family: 'Alatsi', sans-serif;
+  background-color: darkblue;
+  color: white;
+  background-image: url('comet.jpg');
+  background-repeat: repeat;
+}
+
+.button {
+  color: black;
+  background-color: white;
+}
+
+img {
+  align: center;
+}
+
+h1 {
+text-align: center;
+text-decoration:underline;
+}
+
+h2 {
+font-size: 22pt;
+}
+
+h3 {
+  font-size: 20pt;
+  padding-left: 10pt;
+}
+
+h4 {
+  font-size: 30pt;
+  font-style: bold;
+}
